@@ -2,21 +2,15 @@ let card = []; // Array of All Tasks Items
 let high = []; // Array of High Tasks Items Only
 let medium = []; // Array of Medium Tasks Items Only
 let low = []; // Array of Low Tasks Items Only
-
 let cnt_all = 0;
 let cnt_low = 0;
 let cnt_medium = 0;
 let cnt_high = 0;
-
 let cnt_completed = 0;
 let cnt_completed_low = 0;
-
 let cnt_completed_medium = 0;
-
 let cnt_completed_high = 0;
-
 let cnt_started = 0;
-
 let all_span = document.getElementById("cnt_all");
 let low_span = document.getElementById("cnt_low");
 let medium_span = document.getElementById("cnt_medium");

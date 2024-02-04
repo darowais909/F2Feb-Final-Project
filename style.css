@@ -2,13 +2,13 @@ body {
     background-color: #0d0d0d;
     color: white;
   }
-  
+
   #logo {
     margin-inline: 45%;
     margin-top: 2%;
     position: sticky;
   }
-  
+
   #info {
     display: flex;
     flex-direction: row;
@@ -25,7 +25,6 @@ body {
     border-radius: 20px;
     border: none;
     border: 1px solid black;
-  
     outline: none;
   }
   
@@ -34,13 +33,9 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-  
     width: 50%;
-  
     margin-left: 25%;
-  
     margin-top: 80px;
-  
     border-bottom: 1px solid grey;
   }
   
@@ -68,11 +63,8 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-  
     width: 50%;
-  
     margin-left: 25%;
-  
     margin-top: 80px;
   }
   
@@ -163,7 +155,6 @@ body {
     font-size: 20px;
     background-color: #262626;
     color: #808080;
-  
     cursor: pointer;
   }
   
@@ -177,7 +168,6 @@ body {
   
   .inp {
     font-size: 20px;
-  
     background-color: #1e6f9f;
     color: #f2f2f2;
     cursor: pointer;
@@ -210,13 +200,9 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-  
     width: 50%;
-  
     margin-left: 25%;
-  
     margin-top: 10px;
-  
     border-bottom: 1px solid grey;
   }
   
@@ -225,11 +211,8 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-  
     width: 50%;
-  
     margin-left: 25%;
     margin-top: 20px;
-  
     border-bottom: 1px solid grey;
   }
